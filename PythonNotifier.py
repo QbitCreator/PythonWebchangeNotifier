@@ -1,5 +1,4 @@
 import ssl
-import json
 import time
 import requests
 import smtplib
